@@ -9,7 +9,7 @@ This is my first Git Repository.
 <b> opps  language </b>     
 <hr>
 <br>
-<hr >
+<hr>
 <p> Pranjul Sengar </p>
 <i>Lo</i>
 <p> Hello </p>
@@ -17,4 +17,4 @@ This is my first Git Repository.
 <p> Neelendra </p>
 <hr>
 <p> Hello </p>
-Author-Neelendra Singh  
+Author-Neelendra Singh Rajawat 
