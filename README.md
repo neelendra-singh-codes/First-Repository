@@ -7,16 +7,6 @@ This is my first Git Repository.
 <hr>
 <br>
 <a href = "https://www.google.com">google </a?
-
-<b> opps  language </b>     
-<p> Hello </p>
-<hr>
-<br>
-<hr>
-<i>Lo</i>
-<p> Hello </p>
-<p> hYY </p>
-<p> Neel </p>
 <br>
 <p> Neelendra </p>
 <hr>
